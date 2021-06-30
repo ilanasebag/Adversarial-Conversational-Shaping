@@ -1,0 +1,2 @@
+USR_END_TKN = "__eou__"
+GEENRATOR_MAX_LENGTH = 50
