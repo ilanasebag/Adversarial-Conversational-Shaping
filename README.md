@@ -6,3 +6,6 @@ This repository contains our submission for the final group work for the Statist
 - An explanatory video of the porject
 - A demonstration notebook
 - The code 
+
+# Running the project 
+bash scripts/run.sh
